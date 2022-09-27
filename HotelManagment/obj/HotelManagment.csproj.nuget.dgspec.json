@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Kitoblar\\Zikrulla\\#My project\\C#\\Windows form\\Real\\HotelManagment\\HotelManagment\\HotelManagment.csproj": {}
+  },
+  "projects": {
+    "D:\\Kitoblar\\Zikrulla\\#My project\\C#\\Windows form\\Real\\HotelManagment\\HotelManagment\\HotelManagment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Kitoblar\\Zikrulla\\#My project\\C#\\Windows form\\Real\\HotelManagment\\HotelManagment\\HotelManagment.csproj",
+        "projectName": "HotelManagment",
+        "projectPath": "D:\\Kitoblar\\Zikrulla\\#My project\\C#\\Windows form\\Real\\HotelManagment\\HotelManagment\\HotelManagment.csproj",
+        "packagesPath": "C:\\Users\\ASB\\.nuget\\packages\\",
+        "outputPath": "D:\\Kitoblar\\Zikrulla\\#My project\\C#\\Windows form\\Real\\HotelManagment\\HotelManagment\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ASB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
