@@ -38,7 +38,7 @@ namespace HotelManagment
         }
         private void btnlogin_Click(object sender, EventArgs e)
         {
-            ChildForm(new Login(phome, activeForm));
+            ChildForm(new Login());
         }
 
         private void btnroyhatdanotish_Click(object sender, EventArgs e)

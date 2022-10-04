@@ -124,7 +124,7 @@ namespace HotelManagment
                 if (dbusername == "" || dbusername != username)
                 {
                     db.addUser(username, email, phone, date, password1);
-                    ChildForm(new Login(phome, activeForm));
+                    ChildForm(new Login());
                 }
                 else
                 {
